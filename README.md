@@ -6,7 +6,7 @@
 
 *building interfaces that feel as good as they look*
 
-[![Portfolio](https://img.shields.io/badge/madebymv.xyz-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://heymanish.xyz)
+[![Portfolio](https://img.shields.io/badge/heymanish.xyz-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://heymanish.xyz)
 
 
 </div>
