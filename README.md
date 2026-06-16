@@ -6,7 +6,7 @@
 
 *building interfaces that feel as good as they look*
 
-[![Portfolio](https://img.shields.io/badge/madebymv.xyz-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://madebymv.xyz)
+[![Portfolio](https://img.shields.io/badge/madebymv.xyz-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://heymanish.xyz)
 
 
 </div>
@@ -59,7 +59,7 @@ design is intention.   code is execution.   both matter.
 
 | project | stack | about |
 |---|---|---|
-| **[madebymv.xyz](https://madebymv.xyz)** | React · Vite · Tailwind | personal portfolio — dark editorial aesthetic |
+| **[heymanish.xyz](https://heymanish.xyz)** | React · Vite · Tailwind | personal portfolio — dark editorial aesthetic |
 | **creative agency** | design · content · editing | client work globally — brand, social, campaigns |
 
 ---
